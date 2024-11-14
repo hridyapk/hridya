@@ -1,0 +1,23 @@
+<html>
+<title>simple HTML page</title>
+<head>
+<body bgcolor="sky blue">
+<b><marquee><h1 font color="blue" align="center">COLLEGE ADMISSION</h1></marquee></b>
+<marquee><h2 fontcolor="blue">STUDENT DETAILS</h2></marqueee>
+<p>HTML stands for Hyper Text Markup Language
+<ol><li>ADMISSION NUMBER :233412</li>
+<li>NAME:ARYA</li>
+<li>PHONE NO:9045236610</li>
+<li>ADMISSION TYPE:MANAGEMENT</li></ol>
+</body></head>
+</html>
+
+
+
+
+
+
+
+
+
+

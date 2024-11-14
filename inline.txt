@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>home page</title>
+<body>
+<h1 style:color="linen";align="center"></h1>
+</body>
+</head>
+</html>
